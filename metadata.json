@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Water Quality Assessment System",
+  "description": "Predict Water Quality Index (WQI) using machine learning (LightGBM + Optuna) to support contamination detection, environmental monitoring, safe water resource management, and public health protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

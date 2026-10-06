@@ -1,0 +1,29 @@
+{
+  "MAE": 1.2004,
+  "MSE": 2.5761,
+  "RMSE": 1.605,
+  "R2": 0.9962,
+  "Adjusted_R2": 0.996,
+  "CV_R2_Mean": 0.9947,
+  "CV_R2_Std": 0.0012,
+  "CV_RMSE_Mean": 1.9335,
+  "CV_RMSE_Std": 0.3006,
+  "Best_Optuna_Trial": 23,
+  "Best_Optuna_Value_RMSE": 2.0664,
+  "Optuna_Best_Params": {
+    "n_estimators": 200,
+    "learning_rate": 0.10678341571777228,
+    "num_leaves": 65,
+    "max_depth": 3,
+    "min_child_samples": 30,
+    "subsample": 0.7352768534645582,
+    "colsample_bytree": 0.8490859588217801,
+    "reg_alpha": 0.04783998502916866,
+    "reg_lambda": 0.0028065689428857844,
+    "objective": "regression",
+    "metric": "rmse",
+    "verbosity": -1,
+    "boosting_type": "gbdt",
+    "random_state": 42
+  }
+}

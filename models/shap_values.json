@@ -1,0 +1,122 @@
+[
+  {
+    "feature":"Iron(mg\/L)",
+    "mean_abs_shap":13.9351587391
+  },
+  {
+    "feature":"Amonia N (mgN\/L)",
+    "mean_abs_shap":11.8563265184
+  },
+  {
+    "feature":"Potential of Hydrogen (pH)",
+    "mean_abs_shap":2.1374989782
+  },
+  {
+    "feature":"Hardness_Magnesium (mg\/L as CaCO3)",
+    "mean_abs_shap":1.1551759448
+  },
+  {
+    "feature":"Dissolved oxygen (mg\/L)",
+    "mean_abs_shap":0.9916405929
+  },
+  {
+    "feature":"DO_Deficit",
+    "mean_abs_shap":0.9138376483
+  },
+  {
+    "feature":"Total_Hardness",
+    "mean_abs_shap":0.6681556166
+  },
+  {
+    "feature":"Total Alkalinity (mg\/L as CaCO3)",
+    "mean_abs_shap":0.1160438186
+  },
+  {
+    "feature":"Chloride (mg\/L)",
+    "mean_abs_shap":0.1072209073
+  },
+  {
+    "feature":"Total Dissolved Solids (mg\/L)",
+    "mean_abs_shap":0.102050736
+  },
+  {
+    "feature":"Heavy_Metal_Sum",
+    "mean_abs_shap":0.0485188766
+  },
+  {
+    "feature":"Nitrate N (mgN\/L)",
+    "mean_abs_shap":0.0381260139
+  },
+  {
+    "feature":"Hardness Calcium (mgCaCO3\/L)",
+    "mean_abs_shap":0.0360736382
+  },
+  {
+    "feature":"Lead (mg\/L)",
+    "mean_abs_shap":0.0307234064
+  },
+  {
+    "feature":"Zinc (mg\/L)",
+    "mean_abs_shap":0.0214160522
+  },
+  {
+    "feature":"Month",
+    "mean_abs_shap":0.0129702892
+  },
+  {
+    "feature":"Salinity_Proxy",
+    "mean_abs_shap":0.0101212407
+  },
+  {
+    "feature":"Arsenic (mg\/L)",
+    "mean_abs_shap":0.0088213589
+  },
+  {
+    "feature":"Ca_Mg_Hardness_Ratio",
+    "mean_abs_shap":0.0088004644
+  },
+  {
+    "feature":"Year",
+    "mean_abs_shap":0.0041425684
+  },
+  {
+    "feature":"Cadmium (mg\/L)",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Chromium (mg\/L)",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Manganese (mg\/L)",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Mercury(mg\/L)",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Sodium Adsorption Ratio (%)",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Nickel (mg\/L)",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Season_Monsoon",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Season_PostMonsoon",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Season_Winter",
+    "mean_abs_shap":0.0
+  },
+  {
+    "feature":"Season_Summer",
+    "mean_abs_shap":0.0
+  }
+]
